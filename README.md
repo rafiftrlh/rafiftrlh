@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rafiftrlh/rafiftrlh/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rafiftrlh/rafiftrlh/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
