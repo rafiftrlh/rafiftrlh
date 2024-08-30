@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=rafiftrlh&label=Profile%20views&color=0e75b6&style=flat" alt="rafiftrlh" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ## 🚀 About Me
 
@@ -25,6 +27,13 @@
   <a href="https://linkedin.com/in/rafi-fitrotulloh-2b736928b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-fitrotulloh-2b736928b" height="30" width="40" /></a>
   <a href="https://instagram.com/rafi.ftrlh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi.ftrlh" height="30" width="40" /></a>
 </p>
+
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Languages and Tools
 
