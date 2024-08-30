@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiftrlh&label=Profile%20views&color=0e75b6&style=flat" alt="rafiftrlh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiftrlh" alt="rafiftrlh" /></a> </p>
-
 - 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available at [https://rafiftr-porto.vercel.app/](https://rafiftr-porto.vercel.app/)
