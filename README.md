@@ -14,24 +14,24 @@
   <tr>
     <td valign="top" width="50%">
 
-      ## 🚀 About Me
-  
-      - 🌱 I'm currently learning **Astro**
-      - 👨‍💻 Check out my projects at [my portfolio](https://rafiftr-porto.vercel.app/)
-      - 💬 Ask me about **React, Tailwind**
-      - 📫 Reach me at **rafifitro89@gmail.com**
-  
-      ## 🔗 Connect with me
-      
-      <p align="left">
-        <a href="https://linkedin.com/in/rafi-fitrotulloh-2b736928b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-fitrotulloh-2b736928b" height="30" width="40" /></a>
-        <a href="https://instagram.com/rafi.ftrlh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi.ftrlh" height="30" width="40" /></a>
-      </p>
+  ## 🚀 About Me
 
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" alt="Coding" width="100%">
-    </td>
+  - 🌱 I'm currently learning **Astro**
+  - 👨‍💻 Check out my projects at [my portfolio](https://rafiftr-porto.vercel.app/)
+  - 💬 Ask me about **React, Tailwind**
+  - 📫 Reach me at **rafifitro89@gmail.com**
+
+  ## 🔗 Connect with me
+  
+  <p align="left">
+    <a href="https://linkedin.com/in/rafi-fitrotulloh-2b736928b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-fitrotulloh-2b736928b" height="30" width="40" /></a>
+    <a href="https://instagram.com/rafi.ftrlh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi.ftrlh" height="30" width="40" /></a>
+  </p>
+
+</td>
+<td valign="top" width="50%">
+  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" alt="Coding" width="100%">
+</td>
   </tr>
 </table>
 
