@@ -16,7 +16,7 @@
 
   ## 🚀 About Me
 
-  - 🌱 I'm currently learning **Astro** and **TypeScript**
+  - 🌱 I'm currently learning **Astro**, **TypeScript** and **Next.js**
   - 👨‍💻 Check out my projects at [my portfolio](https://rafiftr-porto.vercel.app/)
   - 💬 Ask me about **React, Tailwind**
   - 📫 Reach me at **rafifitro89@gmail.com**
