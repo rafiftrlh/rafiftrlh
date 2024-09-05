@@ -3,7 +3,7 @@
 [![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://rafiftr-porto.vercel.app/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Frontend+and+Backend+Developer;Always+learning+new+things;Time+Is+Money&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Frontend+and+Backend+Web+Developer;Always+learning+new+things;Time+Is+Money&center=true&width=500&height=50">
 </p>
 
 <p align="center">
